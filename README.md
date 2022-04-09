@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kagure-nyakio/Order-Summary-Card-Solution)
+- Live Site URL: [Add live site URL here](https://tourmaline-panda-940f7f.netlify.app)
 
 ## My process
 
